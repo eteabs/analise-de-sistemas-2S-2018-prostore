@@ -1,4 +1,4 @@
-Um site de compras e manutenção de computadores. Na manutenção o usuario devera responder um questionario para que possamos fazer um diagnostico e resolver o probelma. Em desenvolvimento na aula de AS, até o prazo que o professor pedir. O projeto está sendo desenvolvido pois foi solicitado pelo professor um projeto com tema livre. Programando com PHP e HTL5. 
+Um site de compras e manutenção de computadores. Na manutenção o usuario devera responder um questionario para que possamos fazer um diagnostico, assim chegaremos no possivel problema e resolveremos. Em desenvolvimento na aula de AS, até o prazo que o professor pedir. O projeto está sendo desenvolvido pois foi solicitado pelo professor um projeto com tema livre. Programando com PHP e HTL5. 
 
 
 Integrantes:
